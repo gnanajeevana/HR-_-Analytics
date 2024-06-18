@@ -3,9 +3,14 @@ Welcome to our HR Attrition Analysis Project This project aims to meticulously e
 
 Dataset
 Project Name: Employee Retention
+
 Dataset Name: HR_1 and HR_2
+
 Dataset Type: Excel Data
+
 Dataset Size: 50,000 records each
+
+
 Problem Statement
 The key areas of analysis include:
 
