@@ -26,9 +26,13 @@ Skills/Concepts Demonstrated:
 This project demonstrates proficiency in:
 
 ->Data cleaning and preprocessing.
+
 ->Exploratory Data Analysis (EDA).
+
 ->Power BI (Bookmarking, DAX, Quick Measures, Modelling, Filters, Tooltips.)
+
 ->Statistical analysis to derive insights.
+
 ->MySQL (Joins, Group by, Having, Window Functions, View, Aggregate Functions.)
 
 
